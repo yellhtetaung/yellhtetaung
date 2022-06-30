@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Zen</h1>
+<h1 align="center">Welcome To My Profile</h1>
 <h3 align="center">A passionate frontend developer from Myanmar</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,Javascript,jQuery,Bootstrap**
+- I'm Zen
+
+- 🌱 I’m currently learning **Nodejs, Reactjs**
 
 - 📫 How to reach me **yairhtet248.yha@gmail.com**
 
