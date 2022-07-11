@@ -3,7 +3,7 @@
 
 - I'm Zen
 
-- 🌱 I’m currently learning **Nodejs, Reactjs**
+- 🌱 I’m currently learning **Nodejs, Reactjs, Vuejs**
 
 - 📫 How to reach me **yairhtet248.yha@gmail.com**
 
