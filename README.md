@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yellhtetaung&label=Profile%20views&color=0e75b6&style=flat" alt="yellhtetaung" /> </p>
 
-- I'm using languages **HTML,CSS,JavaScript,Bootstrap and jQuery**
+- 👨‍💻 I'm using languages **HTML,CSS,JavaScript,Bootstrap and jQuery**
 
 - 🌱 I’m currently learning **Nodejs, Reactjs and Vuejs**
 
-- 👨‍💻 My Portfolio is available at [https://zencoding.netlify.app/](https://zencoding.netlify.app/)
+- 📃 My Portfolio is available at [https://zencoding.netlify.app/](https://zencoding.netlify.app/)
 
 - 📫 How to reach me  **yairhtet248.yha@gmail.com**
 
