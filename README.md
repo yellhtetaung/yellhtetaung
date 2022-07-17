@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Nodejs, Reactjs and Vuejs**
 
-- 👨‍💻 All of my projects are available at [https://zencoding.netlify.app/](https://zencoding.netlify.app/)
+- 👨‍💻 My Portfolio is available at [https://zencoding.netlify.app/](https://zencoding.netlify.app/)
 
-- 📫 How to reach me **yairhtet248.yha@gmail.com**
+- 📫 How to reach me  **yairhtet248.yha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
