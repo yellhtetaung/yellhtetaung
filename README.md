@@ -1,5 +1,7 @@
 <div align="center">
-  <a href="https://app.daily.dev/yellhtetaung"><img src="https://api.daily.dev/devcards/e1a5caaaed7e4053a704b61650174e8c.png?r=o1a" width="400" alt="Zen's Dev Card"/></a>
+  <a href="https://app.daily.dev/yellhtetaung">
+    <img src="https://api.daily.dev/devcards/e1a5caaaed7e4053a704b61650174e8c.png?r=o1a" width="200" alt="Zen's Dev Card"/>
+  </a>
 </div>
 
 ###
