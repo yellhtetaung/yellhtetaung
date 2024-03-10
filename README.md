@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **Next.js and Python**
 
-- 👨‍💻 All of my projects are available at [https://zencoding.netlify.app/](https://zencoding.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://yehtetaung-dev.vercel.app/](https://yehtetaung-dev.vercel.app)
 
 - 📝 I regularly write articles on [https://yellhtetaung.gitbook.io/react/](https://yellhtetaung.gitbook.io/react/)
 
